@@ -1,23 +1,3 @@
-Project Title: Privacy preserving statistics for Covid-19 symptoms
-Project Description:
-The recent technology developments enable stakeholders to collect a large amount of data and learn from them
-through different statistical or machine learning techniques. Unfortunately, such operations, although very useful,
-raise serious privacy concerns mainly because of the high sensitivity of the collected individual data. Therefore,
-there is a strong need for protecting the systems collecting and processing this large amount of data.
-The aim of this project is to implement a privacy preserving data analytics solution that allows the computation
-of some statistical information (counting, mean, etc.) from some large data set without disclosing individual
-inputs. We will focus to a particular covid-19 based use case where statistics will be computed from medical
-data. The goal is to use privacy enhancing technologies such as homomorphic encryption, secure multi-party
-computation, and/or functional encryption.
-Prerequisite: knowledge on C, C++ or python is appreciated.
-Aujourd’hui, à 15:50
-15:50
-Jérémy, date d’envoi : Aujourd’hui, à 15:50
-Jérémy, date d’envoi : Aujourd’hui, à 16:22
-https://us04web.zoom.us/j/75931490911?pwd=MnFjNWhlOHpsSXVIVVdhb1IwQ2UxZz09
-Aujourd’hui, à 23:34
-23:34
-Jérémy, date d’envoi : Aujourd’hui, à 23:34
 # Benckmark-Fall-semester-Project
 This is the benchmark between Seal and Charms
 
